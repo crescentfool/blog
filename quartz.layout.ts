@@ -33,18 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
         },
       ],
     }),
-    Component.Explorer({
-      title: "Explorer", // title of the explorer component
-      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      // omitted but shown later
-      sortFn: ...,
-      filterFn: ...,
-      mapFn: ...,
-      // what order to apply functions in
-      order: ["filter", "map", "sort"],
-    })
+    Component.Explorer()
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -66,18 +55,7 @@ export const defaultListPageLayout: PageLayout = {
         },
       ],
     }),
-    Component.Explorer({
-      title: "Explorer", // title of the explorer component
-      folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      // omitted but shown later
-      sortFn: ...,
-      filterFn: ...,
-      mapFn: ...,
-      // what order to apply functions in
-      order: ["filter", "map", "sort"],
-    })
+    Component.Explorer()
   ],
   right: [],
 }
