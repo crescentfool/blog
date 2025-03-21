@@ -7,7 +7,7 @@ hey there! 👋 i'm lizz (also known on the internet as `crescentfool`). welcome
 ## what is this?
 this is my digital garden + blog (made with the help of [quartz](https://quartz.jzhao.xyz/)!). given the nature of the format, **this site will always be a perpetual work in progress.**
 
-here, i like to document what i've learned and experienced (or things that i just think are neat!). some of these are akin to a full-fledged blog posts, while others are just a bullet point list of notes.
+here, i like to document what i've learned and experienced (or things that i just think are neat!). some of these are akin to a full-fledged blog post, while others are just a bullet point list of notes.
 
 as i learn new things, my notes will grow alongside me! feel free to check back on those to see if there's anything new i've learned since the first time i published the note.
 
