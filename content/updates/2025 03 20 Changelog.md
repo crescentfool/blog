@@ -4,15 +4,17 @@ FIRST UPDATE!!! i installed quartz and set up GitHub pages.
 *if a page is marked as complete, please know that it's only "complete" for that time being! as in, there's no incomplete thoughts/paragraphs... i will probably add updates to pages in the future.*
 
 ### New
-- [[content/index|index]]: Homepage
+- [[content/index]]: Homepage
 - [[current brain rotation]]: Lizz's Favorites! (WIP)
 - **behind the scenes**
-	- [[content/behind the scenes/index|index]] behind the scenes navigation (complete)
+	- [[content/behind the scenes/index]] behind the scenes navigation (complete)
 	- [[laines portfolio retrospective]] (WIP, ported from my personal obsidian vault)
 - **media wrapped**
-	- [[content/media wrapped/index|index]] media wrapped navigation (complete)
+	- [[content/media wrapped/index]] media wrapped navigation (complete)
 - **resources**
-	- [[content/resources/index|index]] (WIP)
+	- [[content/resources/index]] (WIP)
+	- [[brushes]] (WIP, but there's a decent selection!)
+	- [[unfucking windows]] (complete)
 - **updates**
 	- [[content/updates/index|index]]
 	- [[2025 03 20 Changelog]] - you are here!
