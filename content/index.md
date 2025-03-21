@@ -4,6 +4,11 @@ description: a blog for lizz (crescentfool). enjoy your stay!
 ---
 hey there! 👋 i'm lizz (also known on the internet as `crescentfool`). welcome to my little corner of the internet, the garden of stars! yay!!! so glad you're here 🎉
 
+if you don't know who i am... don't worry! i have the perfect video (15 seconds long) to describe my perpetual state of mind:
+![Makes me wanna bark like a dog (SnapCube) - YouTube](https://www.youtube.com/watch?v=BH-Mq7A30kk)
+
+seriously though, you can catch glimpses of what i'm like on other parts of the internet, which you can find on my carrd: https://crescentfool.carrd.co/
+
 ## what is this?
 this is my digital garden + blog (made with the help of [quartz](https://quartz.jzhao.xyz/)!). given the nature of the format, **this site will always be a perpetual work in progress.**
 
