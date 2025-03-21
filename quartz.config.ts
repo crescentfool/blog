@@ -8,23 +8,23 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "crescentfool's blog 🌙",
+    pageTitleSuffix: "lizzy's notebook!",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "crescentfool.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Quicksand",
+        body: "Quicksand",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -33,8 +33,8 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+          dark: "#4D70DE",
+          secondary: "#4D70DE",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
