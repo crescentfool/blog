@@ -2,7 +2,6 @@
 title: Laine's Portfolio Retrospective
 description: a reflection on what it was like to build laine's portfolio as a first-time user of webflow and figma.
 permalink: 
-draft: 
 date: 2025-03-20
 tags:
   - web-design
