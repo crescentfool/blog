@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: welcome to my blog!
+description: FOR PAGE PREVIEW
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+hello!!! i am lizz! and i have no idea what im doing!!! let's go yippee!!!
