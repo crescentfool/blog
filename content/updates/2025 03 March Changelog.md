@@ -17,7 +17,7 @@ FIRST UPDATE!!! i installed quartz and set up GitHub pages.
 	- [[unfucking windows]] (complete)
 - **updates**
 	- [[content/updates/index|index]]
-	- [[2025 03 20 Changelog]] - you are here!
+	- [[2025 03 March Changelog]] - you are here!
 
 ## Status Updates
 - favicon image + open graph image has been updated to be more reflective of my personal interests (rather than the default)
